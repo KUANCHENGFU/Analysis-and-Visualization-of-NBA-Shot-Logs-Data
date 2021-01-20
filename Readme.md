@@ -8,4 +8,4 @@ This project aimed at using **matplotlib** and **seaborn** to analyze and visual
 3. The exploration of hot hand phenomenon
 
 ## Link to the Project
-
+1. https://nbviewer.jupyter.org/github/KUANCHENGFU/Analysis-and-Visualization-of-NBA-Shot-Logs-Data/blob/main/Analysis_and_visualization_of_NBA_shot_logs_data.ipynb
